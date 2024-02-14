@@ -1,0 +1,2 @@
+# Lab 2 Part 1
+As I understood it, this lab isn't directly working with the android studio and instead intended to understand and develop code abiding by the MVC model. Under the list of deliverables, Lab 1 wanted a video of the application running and working while this did not, which is why I'm assuming we're not developing an app right away. Instead, the following are examples of code that follow the MVC model, as well as diagrams that highlight the overall app structure and the MVC architecture.
